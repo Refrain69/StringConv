@@ -1,6 +1,6 @@
 # StringConv
 
-[![](https://github.com/detached64/StringConv/actions/workflows/build.yml/badge.svg)](https://github.com/detached64/StringConv/actions/workflows/build.yml) [![](https://img.shields.io/github/license/detached64/StringConv)](./LICENSE) [![](https://img.shields.io/github/v/release/detached64/StringConv?include_prereleases)](https://github.com/detached64/StringConv/releases/latest)
+[![](https://github.com/Refrain69/StringConv/actions/workflows/build.yml/badge.svg)](https://github.com/Refrain69/StringConv/actions/workflows/build.yml) [![](https://img.shields.io/github/license/Refrain69/StringConv)](./LICENSE) [![](https://img.shields.io/github/v/release/Refrain69/StringConv?include_prereleases)](https://github.com/Refrain69/StringConv/releases/latest)
 
 A simple string conversion tool for reverse engineers and translators.
 
@@ -8,9 +8,9 @@ A simple string conversion tool for reverse engineers and translators.
 
 ## Download
 
-[Releases](https://github.com/detached64/StringConv/releases)
+[Releases](https://github.com/Refrain69/StringConv/releases)
 
-Get ci builds [here](https://github.com/detached64/StringConv/actions/workflows/build.yml).
+Get ci builds [here](https://github.com/Refrain69/StringConv/actions/workflows/build.yml).
 
 ## Usage
 

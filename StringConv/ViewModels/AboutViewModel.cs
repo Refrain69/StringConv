@@ -20,7 +20,7 @@ internal partial class AboutViewModel : ViewModelBase
     public partial string Copyright { get; set; } = CurrentAssembly.GetCustomAttribute<AssemblyCopyrightAttribute>()?.Copyright;
 
     [ObservableProperty]
-    public partial string SourceUrl { get; set; } = "https://github.com/detached64/StringConv";
+    public partial string SourceUrl { get; set; } = "https://github.com/Refrain69/StringConv";
 
     [RelayCommand]
     private static async Task OpenUrlAsync(string url)
